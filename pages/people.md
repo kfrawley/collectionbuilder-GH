@@ -2,8 +2,7 @@
 title: People
 layout: page
 permalink: /people.html
----
-
+--- 
 
 Learn more about the people in Marie's letters. Click on a name to browse related letters.
 

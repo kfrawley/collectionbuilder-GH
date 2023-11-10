@@ -1,5 +1,8 @@
 field,display_name
+letter_id,Letter ID
+creator,Creator
+recipient,Recipient
+letter_date,Date
+subjects,Subjects
 title,Title
-date,Date
-description,Description
-subject,Subjects
+xml,Data

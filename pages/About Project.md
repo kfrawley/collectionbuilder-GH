@@ -1,7 +1,7 @@
 ---
 title: About This Project
 layout: about
-permalink: about-lizzie.html
+permalink: /about-lizzie.html
 credits: true
 ---
 

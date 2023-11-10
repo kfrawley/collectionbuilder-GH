@@ -1,7 +1,7 @@
 ---
 title: People
 layout: page
-permalink: people.html
+permalink: /people.html
 ---
 
 # People

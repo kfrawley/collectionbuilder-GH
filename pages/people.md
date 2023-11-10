@@ -4,7 +4,6 @@ layout: page
 permalink: /people.html
 ---
 
-#People
 
 Learn more about the people in Marie's letters. Click on a name to browse related letters.
 

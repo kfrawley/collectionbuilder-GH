@@ -2,7 +2,7 @@
 title: About This Project
 layout: about
 permalink: about-lizzie.html
-jarallax: true
+credits: true
 ---
 
 <h2 class="pt-4">About Elizabeth Breckenridge:</h2>

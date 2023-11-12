@@ -4,6 +4,7 @@ layout: page
 permalink: /people.html
 ---
 
+# People
 <p>Learn more about the people in Marie's letters. Click on a name to browse related letters.</p>
 
 {% capture letters %}{% for item in site.data.persname_main %}{{ item.name | slice: 0 | capitalize }};{% endfor %}{% endcapture %}

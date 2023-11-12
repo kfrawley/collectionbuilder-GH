@@ -13,7 +13,10 @@
                     <a class="nav-link" href="{{ 'browse.html' | relative_url }}">Letters</a>
                 </li>
                 <li class="nav-item {% if page.url contains 'subjects.html' %}active{% endif %}">
-                    <a class="nav-link" href="{{ 'subjects.html' | relative_url }}">Subjects / People</a>
+                    <a class="nav-link" href="{{ 'people.html' | relative_url }}">People</a>
+                </li>
+                <li class="nav-item {% if page.url contains 'subjects.html' %}active{% endif %}">
+                    <a class="nav-link" href="{{ 'subjects.html' | relative_url }}">Subjects</a>
                 </li>
                 <a class="navbar-brand px-5 d-none d-lg-block" href="{{ '/' | relative_url }}">
                     <img src="{{ '/assets/lib/icons/house-fill.svg' | relative_url }}" class="img-fluid" alt="Red circular seal. Written in the center is a cursive M.">

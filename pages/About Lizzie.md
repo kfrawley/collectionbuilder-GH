@@ -1,7 +1,7 @@
 ---
 title: About Elizabeth Breckenridge
 layout: about
-permalink: /about-lizzie.html
+permalink: about-lizzie.html
 ---
 
 <h2 class="pt-4">About Elizabeth Breckenridge:</h2>

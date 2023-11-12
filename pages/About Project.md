@@ -1,5 +1,5 @@
 ---
-title: About This Project
+title: About Elizabeth Breckenridge
 layout: about
 permalink: /about-lizzie.html
 ---

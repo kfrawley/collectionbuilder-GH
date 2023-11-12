@@ -1,7 +1,7 @@
 ---
 title: About the Project
 layout: about
-permalink: /about.html
+permalink: about.html
 ---
 
 

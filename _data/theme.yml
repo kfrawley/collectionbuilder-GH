@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: 
+featured-image: Lizziefarm.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -97,9 +97,7 @@ base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
 base-font-family: 'Dawning of a New Day', cursive; 'Playfair Display', serif;
-font-cdn: <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display&display=swap" rel="stylesheet">
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Playfair+Display&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/

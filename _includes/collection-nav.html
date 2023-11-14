@@ -1,13 +1,17 @@
 <nav class="navbar navbar-expand-lg navbar-light">
+    .navbar-brand,
+.navbar-nav a {
+  font-family: 'Dawning of a New Day', cursive;
+}
     <a class="navbar-brand d-lg-none" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/lib/icons/house-fill.svg' | relative_url }}" class="img-fluid" alt="Red circular seal. Written in the center is a cursive M.">
+        <img src="{{ '/assets/img/lizzieiconsmaller.png' | relative_url }}" class="img-fluid" alt="Cut out icon of Lizzie holding two buckets.">
     </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#manciniNavBar" aria-controls="manciniNavBar" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#LizzieNavBar" aria-controls="LizzieNavBar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="manciniNavBar">
+    <div class="collapse navbar-collapse" id="LizzieNavBar">
         <ul class="navbar-nav mx-auto">
                 <li class="nav-item {% if page.url contains 'browse.html' %}active{% endif %}">
                     <a class="nav-link" href="{{ 'browse.html' | relative_url }}">Letters</a>

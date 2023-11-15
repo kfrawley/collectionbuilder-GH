@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
+letter_id,Letter ID
+creator,Sender
 recipient,Recipient
-date,Date,
-subject,Subjects,true
-identifier,Source Identifier,,
-type,Type,
-format,Format,
+letter_date,Date
+title,Title
+subjects,Subjects,true
+xml,Data
+

@@ -3,8 +3,20 @@ title: People
 layout: page
 permalink: /people.html
 ---
+<style>
+body {
+  font-family: 'Playfair Display', serif;
+    font-size: 24px;
+}
 
-# People
+.title {
+        font-family: 'Dawning of a New Day', cursive;
+        font-size: 36px;
+      }
+    </style>
+
+<div class="title"><h1>People</h1></div>
+<div class="body">
 <p>Learn more about the people in Marie's letters. Click on a name to browse related letters.</p>
 
 {% capture letters %}{% for item in site.data.persname_main %}{{ item.name | slice: 0 | capitalize }};{% endfor %}{% endcapture %}
@@ -30,7 +42,9 @@ permalink: /people.html
     <dt class="glossary-def"><div id="{{ item.key }}"><a href="{{ '/browse.html#' | append: item.key | relative_url }}">
     {{ item.name }}</a></div></dt> 
     {% if item.annotation %}<dd>{{ item.annotation }}</dd>{%- endif -%}
+    
 {%- endif -%}
+</div>
 {%- endfor -%}
 </dl>
 

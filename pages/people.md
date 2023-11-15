@@ -15,7 +15,7 @@ body {
       }
     </style>
 
-<div class="title"><h1>People</h1></div>
+<div class="title">People</div>
 <div class="body">
 <p>Learn more about the people in Marie's letters. Click on a name to browse related letters.</p>
 

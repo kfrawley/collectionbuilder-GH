@@ -6,12 +6,12 @@ permalink: /people.html
 <style>
 body {
   font-family: 'Playfair Display', serif;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .title {
         font-family: 'Dawning of a New Day', cursive;
-        font-size: 36px;
+        font-size: 48px;
       }
     </style>
 
@@ -49,4 +49,4 @@ body {
 </dl>
 
 {%- endfor -%}
-</div>
+

@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-letter_id,Letter ID
+objectid,Letter ID
 creator,Sender
 recipient,Recipient
 letter_date,Date

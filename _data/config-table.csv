@@ -1,7 +1,8 @@
 field,display_name
-letter_id,Letter ID
-creator,Creator
+objectid,Letter ID
+creator,Sender
 recipient,Recipient
-letter_date,Date
+date,Date
 title,Title
 subjects,Subjects
+format,Format

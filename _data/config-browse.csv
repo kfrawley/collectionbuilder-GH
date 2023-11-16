@@ -2,5 +2,5 @@ field,display_name,btn,hidden,sort_name
 letter_date,Date,,,
 creator,Creator,,,
 recipient,Recipient,,,
-people,,,true
-locations,,,true
+people,,,,true
+locations,,,,true

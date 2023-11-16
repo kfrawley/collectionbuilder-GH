@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
-objectid,Letter ID
-creator,Sender,true
-recipient,Recipient,true
-date,Date
-title,Title
-subjects,Subjects,true
-format,format
+objectid,Letter ID,,
+creator,Sender,true,
+recipient,Recipient,true,
+date,Date,,
+title,Title,,
+subjects,Subjects,true,
+format,format,,

@@ -1,5 +1,6 @@
 field,display_name
 objectid,Letter ID
+filename,Filename
 creator,Sender
 recipient,Recipient
 date,Date

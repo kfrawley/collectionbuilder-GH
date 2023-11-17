@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 objectid,Letter ID,,
+filename,FileName,,
 creator,Sender,true,
 recipient,Recipient,true,
 date,Date,,

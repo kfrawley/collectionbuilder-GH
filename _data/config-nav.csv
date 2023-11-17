@@ -1,8 +1,9 @@
 display_name,stub,dropdown_parent
-Browse,/browse.html
-People,/people.html
-Timeline,/timeline.html
-Data,/data.html
-About,
+Browse,/browse.html,
+People,/people.html,
+Subjects,/subjects.html,
+Timeline,/timeline.html,
+Data,/data.html,
+About,,
 Elizabeth Breckenridge,about-lizzie.html,about
-this project,about.html,about
+This Project,/about.html,about

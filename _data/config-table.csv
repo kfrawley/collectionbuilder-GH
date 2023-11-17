@@ -1,8 +1,9 @@
 field,display_name
-letter_id,Letter ID
-creator,Creator
+objectid,Letter ID
+filename,Filename
+creator,Sender
 recipient,Recipient
-letter_date,Date
-subjects,Subjects
+date,Date
 title,Title
-xml,Data
+subject,Subjects
+format,Format
